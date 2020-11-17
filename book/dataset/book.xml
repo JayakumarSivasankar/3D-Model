@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="book" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="books_assembly" assemblyId="f14d4734a05f486a9dbbc9da90227d0a">
+<Part name="book" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.938801 -2.06657 27.8179" rotation="AD: 0.9998785134531187 -0.07856555689994522 0.21595923736057485 219.044" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
