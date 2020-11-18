@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Lancer_Evolution_model" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="Lancer_Evolution_models_assembly" assemblyId="83f44845d9b14f199e538989cedfb520">
+<Part name="Lancer_Evolution_model" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.00559491 0.00272921 0.0405017" rotation="AD: 0.9981788322519701 0.12848651636816918 -0.5493693666805639 203.017" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0002" translation="-0.00383274 0.00296996 0.0420443" rotation="AD: 0.9970579551170478 0.11466283333386633 -0.9091695384803812 190.61" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0003" translation="0.0020618 0.00483772 0.0309964" rotation="AD: 0.9997208326093381 -0.03830752939785261 0.7848708289301995 184.395" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0004" translation="-0.00557931 0.00258392 0.0406137" rotation="AD: 0.9978799491269037 0.13836407183295887 -0.5531998071238823 204.504" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0005" translation="0.00591596 0.00456745 0.0358117" rotation="AD: 0.9699274344034156 -0.2694237832764034 2.136279817748909 185.93" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
